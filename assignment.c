@@ -44,5 +44,5 @@ Node* readWords(char* filename) {
     // Close the file
     fclose(file);
 
-    return head;
+    return head->next;
 }
