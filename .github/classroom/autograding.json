@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test readWords",
+      "setup": "",
+      "run": "gcc -o assignment_test assignment.c assignment_test.c && ./assignment_test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
